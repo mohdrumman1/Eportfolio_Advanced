@@ -503,6 +503,10 @@ PROJECTS
     margin-bottom: 60px;
 }
 
+.project{
+    padding-bottom: 60px;
+}
+
 .project__img{
     width: 100%;
     transition: all 600ms ease;
